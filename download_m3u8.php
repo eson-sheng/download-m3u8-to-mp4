@@ -1,6 +1,5 @@
 <?php
 
-/* 命令行方式参数获取 */
 $long_opt = array(
     'url:',
 );
@@ -103,7 +102,7 @@ function download_m3u8 ($url, $dir = '')
         /*
         * ts 视频下载完成的节点
         * */
-//        exit('ts 视频下载完成');
+        // exit('ts 视频下载完成');
 
         echo "\nconcat ts to mp4\n";
 
