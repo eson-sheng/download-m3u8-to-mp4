@@ -3,7 +3,7 @@ This is a simple download m3u8 tool
 
 ## usage 
 ```php
-php /path/to/download_m3u8.php --url "{url}"
+php /path/to/download_m3u8 --url "{url}"
 ```
 
 ## Required

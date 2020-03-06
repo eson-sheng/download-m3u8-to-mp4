@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 
 $long_opt = array(
